@@ -1,4 +1,5 @@
 # Coding-Raja
 
-Music Player Preview: Website Deployed- Check it out here
+Simplified On-the-Go Music Player- Check it out here
 https://beat-sync.netlify.app/
+
